@@ -18,8 +18,11 @@ The RAG Document Q&A System is an AI-powered application that enables users to u
 - Large Language Models (LLMs)
 - Supabase
 
-## 📸 Screenshots
-(Add project screenshots here)
+### Home Page
+![Home Page](Screenshot%202026-07-01%20182204.png)
+
+### Question & Answer Interface
+![Question Answer](Screenshot%202026-07-01%20183616.png)
 
 ## 📚 Learning Outcomes
 - Implemented Retrieval-Augmented Generation (RAG)
